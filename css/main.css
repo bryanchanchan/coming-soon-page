@@ -5,7 +5,8 @@
 @viewport { width: device-width; scale: 1; }
 
 body {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: Ubuntu, sans-serif;
+  background:
 }
 .text-container {
   height: 50vh;
